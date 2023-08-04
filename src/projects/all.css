@@ -20,3 +20,9 @@
     border-radius: 10px;
   }
   
+.Box {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin: 10px;
+}
